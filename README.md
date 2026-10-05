@@ -54,9 +54,9 @@ Below is a curated comparison of leading commercial stream analytics platforms, 
 
 ## 🔓 Open-Source Stream Processing Projects 💻
 
-Below are top open-source projects for event stream processing, stream SQL, and data routing, sorted by **GitHub Star Count (Descending)**. 🌟
+Below are top open-source projects for event stream processing, stream SQL, and data routing, sorted by **GitHub Stars_Count (Descending)**. 🌟
 
-| Project | Stars | License | Key Highlights & Primary Use Cases |
+| Project | GitHub_Stars | License | Key Highlights & Primary Use Cases |
 | :--- | :---: | :---: | :--- |
 | **[Apache Spark](https://github.com/apache/spark)** ⚡ | [![Apache Spark Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) | Apache-2.0 | **Unified batch & stream engine**: Micro-batch processing with DataFrame/Dataset API, Delta Lake integration, and machine learning libraries. |
 | **[Apache Kafka](https://github.com/apache/kafka)** *(Kafka Streams)* 📡 | [![Apache Kafka Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) | Apache-2.0 | **Distributed event streaming platform**: Includes **Kafka Streams**, a lightweight client library for stateful stream processing without separate clusters. |
